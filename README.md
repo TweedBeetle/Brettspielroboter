@@ -6,4 +6,6 @@ Competative Gameplay was enabled through implemention of Monte-Carlo simulation 
 Throughout the developement process, both ad-hoc and learned heuristic functions where created. 
 In one instance, a neural network was evolved (through NEAT-python) using selfplay, which was used to evaluate game states.  
 For the final presentation however, one of the ad-hoc heuristic functions was deemed best.
-The final agent could trade peaces quite well, however it was't as good at actually winning games.
+The final agent could trade peaces quite well, however it wasn't as good at actually winning games.
+
+The entry was finally awarded the 2nd place prize in the expert category. The first place was a digital tic-tac-toe console  
